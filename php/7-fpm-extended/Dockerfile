@@ -1,6 +1,6 @@
 FROM php:7-fpm-alpine
 
-MAINTAINER Artem Radchenkov <armit@twinscom.ru>
+LABEL maintainer="Artem Radchenkov <armit@twinscom.ru>"
 
 ################################################################################
 # ADDITIONAL EXTENSIONS
